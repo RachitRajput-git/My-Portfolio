@@ -1,0 +1,16 @@
+{
+  "header": {
+    "logoText": "Rahul Lodhi",
+    "logoImage": "https://preview.colorlib.com/theme/beckham/images/person_1.jpg",
+    "menuSideImage": "https://preview.colorlib.com/theme/beckham/images/author-2.jpg",
+    "menuText": "Rahul Lodhi",
+    "menuItems": [
+      "Home",
+      "Resume",
+      "Services",
+      "Portfolio",
+      "Blog",
+      "Contact"
+    ]
+  }
+}
