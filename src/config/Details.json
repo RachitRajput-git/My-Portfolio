@@ -1,16 +1,126 @@
 {
-  "header": {
-    "logoText": "Rahul Lodhi",
-    "logoImage": "https://preview.colorlib.com/theme/beckham/images/person_1.jpg",
-    "menuSideImage": "https://preview.colorlib.com/theme/beckham/images/author-2.jpg",
-    "menuText": "Rahul Lodhi",
-    "menuItems": [
-      "Home",
-      "Resume",
-      "Services",
-      "Portfolio",
-      "Blog",
-      "Contact"
-    ]
+"header": {
+  "logoText": "Rahul Lodhi",
+  "logoImage": "https://preview.colorlib.com/theme/beckham/images/person_1.jpg",
+  "menuSideImage": "https://preview.colorlib.com/theme/beckham/images/author-2.jpg",
+  "menuText": "Rahul Lodhi",
+  "menuItems": [
+    "Home",
+    "Resume",
+    "Services",
+    "Portfolio",
+    "Blog"
+  ]
+},
+"SliderItems": [
+  {
+    "Text_1": "Hello! I'm",
+    "Text_2": "Rahul Lodhi"
+  },
+  {
+    "Text_1": "I'm from Berlin",
+    "Text_2": "A Web Designer"
+  },
+  {
+    "Text_1": "Hello! I'm",
+    "Text_2": "Rahul Lodhi"
+  },
+  {
+    "Text_1": "I'm from Berlin",
+    "Text_2": "A Web Designer"
+  },
+  {
+    "Text_1": "Hello! I'm",
+    "Text_2": "Rahul Lodhi"
+  },
+  {
+    "Text_1": "I'm from Berlin",
+    "Text_2": "A Web Designer"
   }
+],
+"About": {
+  "image": "https://preview.colorlib.com/theme/beckham/images/author-1.jpg",
+  "heading": "Hi! I m Rahul Lodhi",
+  "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in.",
+  "links": [],
+  "contactInfo": {
+    "homeAddress": "7/1 NandPuri Kanker khera Meerut Cantt, U.P(250001)",
+    "alternateAddress": "7/1 NandPuri Kanker khera Meerut Cantt, U.P(250001)",
+    "email": "rachitrajput.mrt@gmail.com",
+    "mobile": "9758635932"
+  },
+  "socialLinks": [
+    {
+      "facebook": "https://www.facebook.com/"
+    },
+    {
+      "instagram": "#"
+    },
+    {
+      "github": "#"
+    },
+    {
+      "twitter": "#"
+    }
+  ]
+},
+"Services": {
+  "first": [
+    "UI/UX Design",
+    "Mobile App Design",
+    "Responsive Design"
+  ],
+  "second": [
+    "Product Strategy",
+    "Design Sprints",
+    "UX Strategy"
+  ],
+  "third": [
+    "HTML/CSS",
+    "Prototyping",
+    "User Testing"
+  ]
+},
+"Works": [
+  {
+    "tag": "Web Design",
+    "title": "Even the all-powerful Pointing has no control",
+    "description": "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text.",
+    "link": "#",
+    "image": "https://preview.colorlib.com/theme/beckham/images/work-3.jpg"
+  },
+  {
+    "tag": "Web Design",
+    "title": "Even the all-powerful Pointing has no control",
+    "description": "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text.",
+    "link": "#",
+    "image": "https://preview.colorlib.com/theme/beckham/images/work-3.jpg"
+  },
+  {
+    "tag": "Web Design",
+    "title": "Even the all-powerful Pointing has no control",
+    "description": "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text.",
+    "link": "#",
+    "image": "https://preview.colorlib.com/theme/beckham/images/work-3.jpg"
+  }
+],
+"Footer": {
+  "socialLinks": [
+    {
+      "facebook": "https://www.facebook.com/"
+    },
+    {
+      "instagram": "#"
+    },
+    {
+      "github": "#"
+    },
+    {
+      "twitter": "#"
+    }
+  ],
+  "email":"rachitrajput.mrt@gmail.com",
+"copyright":"Copyright ©2021 All rights reserved | Made with 🥱😴 & ❤"
+}
+
 }

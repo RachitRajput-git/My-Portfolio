@@ -1,0 +1,74 @@
+.card_2_wrap .row.card_2 {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 98px;
+}
+
+.card_2_wrap .row.card_2 span {
+  text-transform: uppercase;
+  letter-spacing: 5px;
+}
+
+.card_2_wrap .row.card_2 h2 {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 1.5;
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+.card_2_wrap .card_wrap:nth-child(even) .col_right {
+  padding-left: 0;
+}
+.card_2_wrap .card_wrap:nth-child(odd) .col_right {
+  padding-right: 0;
+}
+.card_2_wrap .card_wrap {
+  display: -webkit-box !important;
+  display: -ms-flexbox !important;
+  display: flex !important;
+  margin-bottom: 30px;
+}
+
+.card_2_wrap .img_wrap {
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  width: 40%;
+  padding: 10% 7%;
+}
+
+.card_2_wrap .col_right {
+  width: 60%;
+  padding: 10% 7%;
+}
+
+.card_2_wrap .col_right h2 {
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #8c8c8c;
+}
+
+.card_2_wrap .col_right h4 {
+  font-size: 30px;
+  margin-bottom: 30px;
+  line-height: 1.5;
+  color: #fff;
+  font-weight: 400;
+  margin-top: 0;
+}
+
+.card_2_wrap.col_right p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.card_2_wrap .col_right a {
+  text-decoration: none;
+}
+
+.card_2_wrap .card_wrap:nth-child(even) .img_wrap {
+  order: 2;
+}

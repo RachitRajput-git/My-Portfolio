@@ -56,6 +56,10 @@ a.p-nav-toggle {
   margin: 0 auto;
   cursor: pointer;
   margin-top: 0;
+  transition: 0.5s all ease;
+}
+.menu--open a.p-nav-toggle {
+  opacity: 0;
 }
 
 a.p-nav-toggle > i {
@@ -145,9 +149,6 @@ nav.p-main-nav {
   justify-content: center;
   align-items: center;
   margin-bottom: 24px;
-}
-
-nav.p-main-nav {
 }
 
 a.p-nav-toggle.close_icon {

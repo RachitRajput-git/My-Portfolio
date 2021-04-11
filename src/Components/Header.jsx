@@ -3,6 +3,18 @@ import "../css/header.css";
 import { Link } from "react-router-dom";
 
 
+/** Open the menu */
+const menuOpen = (event) => {
+    event.preventDefault()
+    let targetElem = document.getElementsByTagName('body');
+    targetElem[0].classList.toggle('menu--open');
+    let menuclose = document.getElementsByClassName('close_icon');
+    setTimeout(() => {
+        menuclose[0].classList.toggle('close_visible')
+    }, 1000);
+}
+
+
 /** Iterate menu items */
 const MenuItems = (items) => {
     const { menuItems } = items;
@@ -10,8 +22,8 @@ const MenuItems = (items) => {
         <ul>
             {menuItems.map((item, index) => {
                 return (
-                    <li key={item+index}>
-                        <Link to={`${item}`}>
+                    <li key={item + index} onClick={menuOpen}>
+                        <Link to={`${item}`} >
                             <span>
                                 <small>0{index + 1}</small>
                                 {item}
@@ -24,18 +36,6 @@ const MenuItems = (items) => {
     );
 };
 
-
-/** Open the menu */
-const menuOpen = (event) => {
-    event.preventDefault()
-    let targetElem = document.getElementsByTagName('body');
-    targetElem[0].classList.toggle('menu--open');
-let menuclose=document.getElementsByClassName('close_icon');
-console.log(menuclose)
-    setTimeout(() => {
-        menuclose[0].classList.toggle('close_visible')
-    }, 1000);
-}
 
 
 
@@ -53,12 +53,13 @@ function Header(props) {
                     <div
                         className="img"
                         style={{ backgroundImage: `url(${header.menuSideImage})` }}
+                        onClick={menuOpen}
                     ></div>
                     <div className="p-nav-inner">
                         <div className="row">
                             <div className="col-md col_h">
-                                <h1 className="nav_heading">
-                                    <Link className="logo" to="/">
+                                <h1 className="nav_heading" onClick={menuOpen}>
+                                    <Link className="logo" to="/" >
                                         {header.menuText}
                                     </Link>
                                 </h1>

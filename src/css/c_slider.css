@@ -1,0 +1,61 @@
+.custom_slider .slider_wrap {
+  color: #fff;
+  height: calc(100vh - 117px);
+  min-height: 700px;
+  position: relative;
+  text-align: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: 0;
+}
+
+.custom_slider .slider_inner {
+  flex-direction: column;
+  flex-wrap: wrap;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.custom_slider .slider_inner p {
+  font-size: 20px;
+  line-height: 1.5;
+  font-weight: 300;
+  color: rgba(255, 255, 255, 0.8);
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.custom_slider .slider_inner h1 {
+  font-size: 55px;
+  color: #fff;
+  line-height: 1.2;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 10px;
+  display: inline-block;
+  position: relative;
+  margin-bottom: 1rem;
+  margin-top: 0;
+}
+
+.custom_slider .slider_inner p a {
+  color: rgba(255, 255, 255, 0.6);
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  text-decoration: none;
+  font-family: "poppins", Arial, sans-serif;
+  -webkit-transition: 0.3s all ease;
+  -o-transition: 0.3s all ease;
+  transition: 0.3s all ease;
+}
