@@ -18,7 +18,15 @@
       "Text_2": "Rahul Lodhi"
     },
     {
-      "Text_1": "I'm from Berlin",
+      "Text_1": "I'm from Meerut,India",
+      "Text_2": "A Web Developer"
+    },
+    {
+      "Text_1": "Hello! I'm",
+      "Text_2": "Rahul Lodhi"
+    },
+    {
+      "Text_1": "I'm from Meerut,India",
       "Text_2": "A Web Designer"
     },
     {
@@ -26,15 +34,7 @@
       "Text_2": "Rahul Lodhi"
     },
     {
-      "Text_1": "I'm from Berlin",
-      "Text_2": "A Web Designer"
-    },
-    {
-      "Text_1": "Hello! I'm",
-      "Text_2": "Rahul Lodhi"
-    },
-    {
-      "Text_1": "I'm from Berlin",
+      "Text_1": "I'm from Meerut,India",
       "Text_2": "A Web Designer"
     }
   ],
@@ -57,7 +57,7 @@
         "instagram": "#"
       },
       {
-        "github": "#"
+        "github": "https://github.com/RachitRajput-git"
       },
       {
         "twitter": "#"
@@ -113,7 +113,7 @@
         "instagram": "#"
       },
       {
-        "github": "#"
+        "github": "https://github.com/RachitRajput-git"
       },
       {
         "twitter": "#"

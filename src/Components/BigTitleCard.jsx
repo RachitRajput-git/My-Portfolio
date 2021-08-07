@@ -25,7 +25,7 @@ function BigTitleCard(props) {
                                     let linkUrl = social_Links[index][key];
                                     return (
                                         <li key={links + index}>
-                                            <Link to={{ pathname: linkUrl }}>
+                                            <Link to={{ pathname: linkUrl }} target="_blank"> 
                                                 <span className={key}></span>
                                             </Link>{" "}
                                         </li>
@@ -34,10 +34,10 @@ function BigTitleCard(props) {
                             </ul>
                             <h5>Contact me here!</h5>
                             <p>Email :
-                                <Link to={{ pathname: `mailto:${about.contactInfo.email}` }}>{about.contactInfo.email}</Link>
+                                <Link to={{ pathname: `mailto:${about.contactInfo.email}` }} target="_blank">{about.contactInfo.email}</Link>
                             </p>
                             <p>Mobile :
-                                <Link to={{ pathname: `phone:${about.contactInfo.mobile}` }} >
+                                <Link to={{ pathname: `phone:${about.contactInfo.mobile}` }} target="_self" >
                                     {about.contactInfo.mobile}</Link>
                             </p>
                         </div>

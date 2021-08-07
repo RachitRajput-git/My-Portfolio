@@ -7,8 +7,7 @@ import WOW from "wow.js";
 import {
   BrowserRouter as Router,
   Switch,
-  Route,
-  Link
+  Route
 } from "react-router-dom";
 import Details from './config/Details.json'
 import Home from "./pages/Home";
@@ -16,6 +15,7 @@ import Footer from "./Components/Footer";
 import Service from "./pages/Service";
 import Resume from "./pages/Resume";
 import Portfolio from "./pages/Portfolio";
+import Error404 from "./pages/Error404";
 
 
 
@@ -44,6 +44,9 @@ function App() {
           </Route>
           <Route exact path="/Portfolio">
             <Portfolio Details={Details} />
+          </Route>
+          <Route  path="*">
+            <Error404 Details={Details} />
           </Route>
 
 

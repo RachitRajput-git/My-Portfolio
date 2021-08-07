@@ -1,0 +1,16 @@
+.error_wrap {
+    padding-top: 14rem;
+    padding-bottom: 7rem;
+}
+
+.error_wrap h1 {
+    text-align: center;
+    font-size: 100px;
+    margin: 0;
+    line-height: 1.2;
+}
+
+.error_wrap h3 {
+    text-align: center;
+    margin: 0;
+}

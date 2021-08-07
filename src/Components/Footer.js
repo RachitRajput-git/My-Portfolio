@@ -18,7 +18,7 @@ function Footer(props) {
                                 let linkUrl = social_Links[index][key];
                                 return (
                                     <li key={links + index}>
-                                        <Link to={{ pathname: linkUrl }}>
+                                        <Link to={{ pathname: linkUrl }} target="_blank">
                                             <span className={key}></span>
                                         </Link>{" "}
                                     </li>

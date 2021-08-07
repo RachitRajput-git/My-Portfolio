@@ -234,92 +234,258 @@ span.company-location {
 }
 
 .tech_wrap h1 {
-    padding: 0;
-    font-weight: normal;
-    font-size: 25px;
-    margin-bottom: 5px;
-    line-height: 1.2;
-    border-bottom: 2px solid #8080808c;
+  padding: 0;
+  font-weight: normal;
+  font-size: 25px;
+  margin-bottom: 5px;
+  line-height: 1.2;
+  border-bottom: 2px solid #8080808c;
 }
 
 .addInfo_wrap h1 {
-    padding: 0;
-    font-weight: normal;
-    font-size: 25px;
-    line-height: 1.2;
-    border-bottom: 2px solid #8080808c;
-    text-transform: unset;
+  padding: 0;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 1.2;
+  border-bottom: 2px solid #8080808c;
+  text-transform: unset;
 }
 
 .tect_inner h5 {
-    font-weight: 500;
-    display: inline-block;
-    margin: 0;
-    font-size: 16px;
-    margin-top: 5px;
-    color: #ff1c44;
+  font-weight: 500;
+  display: inline-block;
+  margin: 0;
+  font-size: 16px;
+  margin-top: 5px;
+  color: #ff1c44;
 }
 
 .tect_inner p {
-    margin: 0;
-    line-height: 1.5;
-    margin: 0;
-    font-size: 14px;
-    margin-top: 0px;
-    color: #310489;
+  margin: 0;
+  line-height: 1.5;
+  margin: 0;
+  font-size: 14px;
+  margin-top: 0px;
+  color: #310489;
 }
 
 .tect_inner:not(:first-of-type) {
-    margin-top: 10px;
+  margin-top: 10px;
 }
 
 .addInfo_wrap {
-    margin-top: 40px;
+  margin-top: 40px;
 }
 
 .addInfo_inner ul li {
-    margin: 0;
-    line-height: 1.5;
-    margin: 0;
-    font-size: 14px;
-    margin-top: 0px;
-    color: #310489;
+  margin: 0;
+  line-height: 1.5;
+  margin: 0;
+  font-size: 14px;
+  margin-top: 0px;
+  color: #310489;
 }
 .resume_link {
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    cursor: pointer;
-    top: 0;
-    left: 0;
-    background-color: #0d051700;
-    transition: background-color 0.5s ease-in-out;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  background-color: #0d051700;
+  transition: background-color 0.5s ease-in-out;
 }
 
 .resume_link:hover {
-    background-color: #0d05173b;
+  background-color: #0d05173b;
 }
 
 .resume_link:after {
-    content: "";
-    width: 100%;
-    height: 100%;
-    top: 10px;
-    right: 5px;
-    position: absolute;
-    display: block;
-    left: 0;
-    text-align: center;
-    top: 0;
-    background-size: 95px;
-    background-image: url('../assets/images/download-icon.png');
-    background-repeat: no-repeat;
-    background-position: center;
-    opacity: 0;
-    visibility: hidden;
-    transition: all 0.5s ease-in-out;
+  content: "";
+  width: 100%;
+  height: 100%;
+  top: 10px;
+  right: 5px;
+  position: absolute;
+  display: block;
+  left: 0;
+  text-align: center;
+  top: 0;
+  background-size: 95px;
+  background-image: url("../assets/images/download-icon.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.5s ease-in-out;
 }
 .resume_link:hover:after {
-    opacity: 1;
-    visibility: visible;
+  opacity: 1;
+  visibility: visible;
+}
+
+.resume-main-container {
+  margin-bottom: 100px;
+}
+
+@media (max-width: 991px) {
+  .resume-inner .r-top-header h1 {
+    font-size: 40px;
+  }
+
+  .resume-inner .r-top-header h2 {
+    font-size: 22px;
+  }
+
+  .r-top-header p {
+    font-size: 15px;
+    margin-top: 6px;
+    line-height: 1.4;
+  }
+
+  .resume-inner span.email-info {
+    display: block;
+    padding: 0;
+  }
+
+  .summary-item h1 {
+    font-size: 20px;
+  }
+
+  .tech_wrap h1 {
+    font-size: 20px;
+  }
+
+  .addInfo_wrap h1 {
+    font-size: 20px;
+  }
+
+  .expcard h1 {
+    font-size: 20px;
+  }
+
+  .edu_main-wrap h1 {
+    font-size: 20px;
+  }
+
+  .summary-item p {
+    font-size: 12px;
+  }
+
+  .tect_inner p {
+    font-size: 12px;
+  }
+
+  .comapny-wrap p.company-name {
+    font-size: 14px;
+  }
+
+  .main-content {
+    width: 65%;
+  }
+
+  .aside-wrap {
+    width: 35%;
+  }
+
+  h5.designation {
+    font-size: 16px;
+  }
+
+  .comapny-wrap {
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+  }
+
+  .expcard-inner p {
+    font-size: 12px;
+  }
+
+  .expcard-inner ul > li {
+    font-size: 12px;
+  }
+
+  .edu-left-col h5 {
+    font-size: 15px;
+    line-height: 1.4;
+  }
+
+  .edu-left-col {
+    width: 80%;
+  }
+
+  .edu-right-col {
+    width: 21%;
+  }
+
+  .edu-left-col p {
+    font-size: 12px;
+  }
+
+  .edu-right-col p {
+    font-size: 12px;
+  }
+
+  .addInfo_inner ul li {
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 767px) {
+  .main-content {
+    width: 100%;
+  }
+
+  .aside-wrap {
+    width: 100%;
+  }
+
+  .r-main-wrap {
+    flex-wrap: wrap;
+  }
+
+  .resume-inner {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 460px) {
+  .resume-inner .r-top-header h1 {
+    font-size: 28px;
+  }
+
+  .resume-inner .r-top-header h2 {
+    font-size: 16px;
+  }
+
+  .r-top-header p {
+    font-size: 12px;
+    margin-top: 6px;
+    line-height: 1.4;
+  }
+
+  .edu-right-col {
+    padding-left: 5px;
+  }
+
+  .edu-left-col p {
+    font-size: 10px;
+  }
+
+  .edu-left-col h5 {
+    font-size: 12px;
+  }
+
+  .edu-right-col p {
+    font-size: 10px;
+  }
+
+  .resume-inner {
+    margin-right: 15px;
+    margin-left: 15px;
+  }
 }
