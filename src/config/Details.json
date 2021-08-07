@@ -1,126 +1,213 @@
 {
-"header": {
-  "logoText": "Rahul Lodhi",
-  "logoImage": "https://preview.colorlib.com/theme/beckham/images/person_1.jpg",
-  "menuSideImage": "https://preview.colorlib.com/theme/beckham/images/author-2.jpg",
-  "menuText": "Rahul Lodhi",
-  "menuItems": [
-    "Home",
-    "Resume",
-    "Services",
-    "Portfolio",
-    "Blog"
-  ]
-},
-"SliderItems": [
-  {
-    "Text_1": "Hello! I'm",
-    "Text_2": "Rahul Lodhi"
+  "header": {
+    "logoText": "Rahul Lodhi",
+    "logoImage": "https://preview.colorlib.com/theme/beckham/images/person_1.jpg",
+    "menuSideImage": "https://preview.colorlib.com/theme/beckham/images/author-2.jpg",
+    "menuText": "Rahul Lodhi",
+    "menuItems": [
+      "Home",
+      "Resume",
+      "Services",
+      "Portfolio",
+      "Blog"
+    ]
   },
-  {
-    "Text_1": "I'm from Berlin",
-    "Text_2": "A Web Designer"
-  },
-  {
-    "Text_1": "Hello! I'm",
-    "Text_2": "Rahul Lodhi"
-  },
-  {
-    "Text_1": "I'm from Berlin",
-    "Text_2": "A Web Designer"
-  },
-  {
-    "Text_1": "Hello! I'm",
-    "Text_2": "Rahul Lodhi"
-  },
-  {
-    "Text_1": "I'm from Berlin",
-    "Text_2": "A Web Designer"
-  }
-],
-"About": {
-  "image": "https://preview.colorlib.com/theme/beckham/images/author-1.jpg",
-  "heading": "Hi! I m Rahul Lodhi",
-  "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in.",
-  "links": [],
-  "contactInfo": {
-    "homeAddress": "7/1 NandPuri Kanker khera Meerut Cantt, U.P(250001)",
-    "alternateAddress": "7/1 NandPuri Kanker khera Meerut Cantt, U.P(250001)",
-    "email": "rachitrajput.mrt@gmail.com",
-    "mobile": "9758635932"
-  },
-  "socialLinks": [
+  "SliderItems": [
     {
-      "facebook": "https://www.facebook.com/"
+      "Text_1": "Hello! I'm",
+      "Text_2": "Rahul Lodhi"
     },
     {
-      "instagram": "#"
+      "Text_1": "I'm from Berlin",
+      "Text_2": "A Web Designer"
     },
     {
-      "github": "#"
+      "Text_1": "Hello! I'm",
+      "Text_2": "Rahul Lodhi"
     },
     {
-      "twitter": "#"
-    }
-  ]
-},
-"Services": {
-  "first": [
-    "UI/UX Design",
-    "Mobile App Design",
-    "Responsive Design"
-  ],
-  "second": [
-    "Product Strategy",
-    "Design Sprints",
-    "UX Strategy"
-  ],
-  "third": [
-    "HTML/CSS",
-    "Prototyping",
-    "User Testing"
-  ]
-},
-"Works": [
-  {
-    "tag": "Web Design",
-    "title": "Even the all-powerful Pointing has no control",
-    "description": "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text.",
-    "link": "#",
-    "image": "https://preview.colorlib.com/theme/beckham/images/work-3.jpg"
-  },
-  {
-    "tag": "Web Design",
-    "title": "Even the all-powerful Pointing has no control",
-    "description": "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text.",
-    "link": "#",
-    "image": "https://preview.colorlib.com/theme/beckham/images/work-3.jpg"
-  },
-  {
-    "tag": "Web Design",
-    "title": "Even the all-powerful Pointing has no control",
-    "description": "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text.",
-    "link": "#",
-    "image": "https://preview.colorlib.com/theme/beckham/images/work-3.jpg"
-  }
-],
-"Footer": {
-  "socialLinks": [
-    {
-      "facebook": "https://www.facebook.com/"
+      "Text_1": "I'm from Berlin",
+      "Text_2": "A Web Designer"
     },
     {
-      "instagram": "#"
+      "Text_1": "Hello! I'm",
+      "Text_2": "Rahul Lodhi"
     },
     {
-      "github": "#"
-    },
-    {
-      "twitter": "#"
+      "Text_1": "I'm from Berlin",
+      "Text_2": "A Web Designer"
     }
   ],
-  "email":"rachitrajput.mrt@gmail.com",
-"copyright":"Copyright ©2021 All rights reserved | Made with 🥱😴 & ❤"
-}
-
+  "About": {
+    "image": "https://preview.colorlib.com/theme/beckham/images/author-1.jpg",
+    "heading": "Hi! I m Rahul Lodhi",
+    "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in.",
+    "links": [],
+    "contactInfo": {
+      "homeAddress": "7/1 NandPuri Kanker khera Meerut Cantt, U.P(250001)",
+      "alternateAddress": "7/1 NandPuri Kanker khera Meerut Cantt, U.P(250001)",
+      "email": "rahul.lodhi5003@gmail.com",
+      "mobile": "9758635932"
+    },
+    "socialLinks": [
+      {
+        "facebook": "https://www.facebook.com/"
+      },
+      {
+        "instagram": "#"
+      },
+      {
+        "github": "#"
+      },
+      {
+        "twitter": "#"
+      }
+    ]
+  },
+  "Services": {
+    "first": [
+      "UI/UX Design",
+      "Mobile App Design",
+      "Responsive Design"
+    ],
+    "second": [
+      "Product Strategy",
+      "Design Sprints",
+      "UX Strategy"
+    ],
+    "third": [
+      "HTML/CSS",
+      "Prototyping",
+      "User Testing"
+    ]
+  },
+  "Works": [
+    {
+      "tag": "Web Design",
+      "title": "Even the all-powerful Pointing has no control",
+      "description": "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text.",
+      "link": "#",
+      "image": "https://preview.colorlib.com/theme/beckham/images/work-3.jpg"
+    },
+    {
+      "tag": "Web Design",
+      "title": "Even the all-powerful Pointing has no control",
+      "description": "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text.",
+      "link": "#",
+      "image": "https://preview.colorlib.com/theme/beckham/images/work-3.jpg"
+    },
+    {
+      "tag": "Web Design",
+      "title": "Even the all-powerful Pointing has no control",
+      "description": "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text.",
+      "link": "#",
+      "image": "https://preview.colorlib.com/theme/beckham/images/work-3.jpg"
+    }
+  ],
+  "Footer": {
+    "socialLinks": [
+      {
+        "facebook": "https://www.facebook.com/"
+      },
+      {
+        "instagram": "#"
+      },
+      {
+        "github": "#"
+      },
+      {
+        "twitter": "#"
+      }
+    ],
+    "email": "rahul.lodhi5003@gmail.com",
+    "copyright": "Copyright ©2021 All rights reserved | Made with 🥱😴 & ❤"
+  },
+  "Resume": {
+    "name": "Rahul Lodhi",
+    "designation": "Web Developer",
+    "phone_1": "9758635932",
+    "phone_2": "7017795995",
+    "email": "rahul.lodhi5003@gmail.com",
+    "address": "Meerut Cantt, Uttar Pradesh, India(250001)",
+    "summary_1": "I have been working with web development since 1st Jan 2020 ,the period during which I have worked in differentenvironments, companies to start-ups. I am aself-motivatedand self-taught professional who likes to solve problems.",
+    "summary_2": "I merge a passion for usability and user experience with technical knowledge to create cool digital experiences. My repertoire includes programming languages and tools such as ReactJS, Firebase, MongoDB ,MySQL, Apache server configuration, SASS, Twitter Bootstrap, Ant Design, Material UI.",
+    "experience": [
+      {
+        "company": "Socwise Technologies Pvt. Ltd.",
+        "designation": "React Developer",
+        "period": "8 Months",
+        "location": "Meerut Cantt",
+        "from": "01/02/2020",
+        "to": "10/10/2020",
+        "description": "As the first developer to integrate the team in this greenfield project, my goal is tocreate interfaces for our new product utilizing ReactJS + CSS usingREDUX/REDUX SAGA as our state management system . The main focus is to create reusable components that could be used in future projects by the team.",
+        "workingAreas": [
+          "Use my extensive experience with front end development to define the structureand components for the project, making sure they are reusable.",
+          "Keep the code quality high reviewing code from other developers and suggestingimprovements.",
+          "Interact with the designer to suggest changes and to make sure the view he hasabout the design is translated into actual functionality.",
+          "I m writtern backend code also using nodejs and Firebase."
+        ]
+      },
+      {
+        "company": "The Webplant Pvt. Ltd.",
+        "designation": "Web Designer and Developer",
+        "Period": "Current",
+        "location": "New Delhi",
+        "from": "15/12/2020",
+        "to": "current",
+        "description": "As the first developer to integrate the team in this greenfield project, my goal is tocreate interfaces for our new product utilizing ReactJS + CSS usingREDUX/REDUX SAGA as our state management system . The main focus is to create reusable components that could be used in future projects by the team."
+      }
+    ],
+    "Education": [
+      {
+        "education": "B.TECH (Information Technology)",
+        "address": "J.P INSTITUTE OF ENGINEERING OF TECHNOLOGY, MEERUT",
+        "year": "2019",
+        "percentage": "65%"
+      },
+      {
+        "education": "Secondary School",
+        "address": "ASHOKA ACADEMY, MEERUT",
+        "year": "2014",
+        "percentage": "70%"
+      },
+      {
+        "education": "High School",
+        "address": "ASHOKA ACADEMY, MEERUT",
+        "year": "2012",
+        "percentage": "85%"
+      }
+    ],
+    "Technologies": {
+      "Front End": [
+        "HTML5",
+        "CSS3",
+        "Javascript",
+        "Jquery",
+        "Reactjs",
+        "BootStrap",
+        "MaterialUI "
+      ],
+      "Back End": [
+        "Firebase",
+        "Nodejs"
+      ],
+      "Tools": [
+        "VS code",
+        "Git",
+        "npm",
+        "yarn",
+        "APIs"
+      ]
+    },
+    "Passion": [
+      "Listing Music",
+      "Travelling",
+      "Learning new things"
+    ],
+    "Language": [
+      "Hindi",
+      " Enlgish"
+    ],
+    "Resume_HardCopy":"../../public/pdf/Resume.pdf"
+  }
 }

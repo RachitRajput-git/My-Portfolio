@@ -9,7 +9,7 @@
   margin-top: 0;
   margin-bottom: 1rem;
   font-size: 16px;
-  background: #121212;
+  /* background: #121212; */
   /* padding: 8em 0; */
   font-family: poppins, Arial, sans-serif;
 }
@@ -91,4 +91,14 @@ footer.footer_wrap.sectionBlock {
 
 .footer_wrap .social_wrap ul > li > a:hover {
   color: #ffff;
+}
+
+@media(max-width:450px){
+  .footer_wrap .f_text_wrap h5 {
+    font-size: 1.20rem;
+}
+
+.footer_wrap .f_text_wrap h3 {
+    font-size: 1.7rem;
+}
 }

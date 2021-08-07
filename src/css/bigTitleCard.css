@@ -156,3 +156,87 @@ span.github:before {
   margin-top: 0;
   margin-bottom: 1rem;
 }
+
+@media (max-width: 1140px) {
+  .col.col_right h1 {
+    font-size: 9em;
+  }
+}
+
+@media (max-width: 991px) {
+  .col.col_right h1 {
+    font-size: 7em;
+    top: -45px;
+    left: -6px;
+  }
+  .col.col_left {
+    flex: 0 0 40%;
+    max-width: 40%;
+  }
+
+  .col.col_middle {
+    flex: 0 0 5%;
+    max-width: 5%;
+  }
+
+  .col.col_right {
+    flex: 0 0 55%;
+    max-width: 55%;
+  }
+}
+
+@media (max-width: 767px) {
+  .col.col_left {
+    flex: auto;
+    max-width: 100%;
+    width: 100%;
+  }
+
+  .col.col_right {
+    flex: auto;
+    max-width: 100%;
+    margin-top: 30px;
+    padding: 3rem !important;
+  }
+
+  .col.col_middle {
+    flex: auto;
+    max-width: 100%;
+  }
+
+  .col.col_left {
+    background-size: contain;
+    min-height: 300px;
+    display: block;
+  }
+  .col.col_right h1 {
+    font-size: 7em;
+    top: 0px;
+    left: 41px;
+  }
+}
+
+@media(max-width:500px){
+
+  .col.col_right h1 {
+    font-size: 4em;
+    top: -6px;
+    left: 45px;
+}
+.big_title_card > .container > .row {
+  margin-right: 0;
+  margin-left: -0;
+}
+}
+@media(max-width:375px){
+  .col.col_right {
+    padding-left: 15px!important;
+    padding-right: 15px!important;
+}
+
+.col.col_right h1 {
+    font-size: 3em;
+    top: 10px;
+    left: 15px;
+}
+}

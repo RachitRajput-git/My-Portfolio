@@ -22,7 +22,7 @@ function CustomSlider(props) {
         nextArrow: false,
         arrows: false,
         autoplay: true,
-        autoplaySpeed: 3000,
+        autoplaySpeed: 4000,
     };
 
     /**  iterate Slider items and make elements of slider*/
@@ -33,11 +33,11 @@ function CustomSlider(props) {
                     return (
                         <div key={item + index}>
                             <div className="slider_wrap">
-                                <div className="slider_inner">
-                                    <p className={{ index } + 1 ? ' wow fadeInUp' : 'wow fadeIn'}>
+                                <div className="slider_inner slide-content ">
+                                    <p >
                                         <Link to="/">{item.Text_1}</Link>
                                     </p>
-                                    <h1 className={{ index } + 1 ? ' wow fadeInUp' : 'wow fadeIn'}>{item.Text_2}</h1>
+                                    <h1  >{item.Text_2}</h1>
                                 </div>
                             </div>
                         </div>

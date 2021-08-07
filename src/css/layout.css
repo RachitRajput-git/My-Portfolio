@@ -2,8 +2,39 @@
   font-family: icomoon;
   src: url("../assets/fonts/icomoon.woff");
 }
+
+body:before {
+  content: '';
+  background-image: url('../assets/images/react.png');
+  position: fixed;
+  width: 350px;
+  height: 350px;
+  top: 50%;
+  left: -9%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  opacity: 0.1;
+  background-size: contain;
+
+}
+
+body::after {
+  content: '';
+    background-image: url('../assets/images/body-bg-2.jpg');
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    position: fixed;
+    background-repeat: no-repeat;
+    opacity: .1;
+    top: 0;
+    background-position-x: center;
+    z-index: -1;
+}
+
+
 .container {
-  width: 100%;
+  max-width: 100%;
   margin-right: auto;
   margin-left: auto;
   padding-left: 15px;
@@ -11,7 +42,7 @@
 }
 .row {
   display: -webkit-box;
-  display: -ms-flexbox;
+  display: -ms-flexbox; 
   display: flex;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
@@ -19,6 +50,19 @@
 .sectionBlock {
   padding: 7em 0;
   display: block;
+}
+
+.clearfix {
+  *zoom: 1;
+}
+
+.clearfix:before, .clearfix:after {
+  display: table;
+  content: "";
+}
+
+.clearfix:after {
+  clear: both;
 }
 /*========min-width:576px========= */
 @media (min-width: 576px) {

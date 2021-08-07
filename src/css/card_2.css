@@ -72,3 +72,31 @@
 .card_2_wrap .card_wrap:nth-child(even) .img_wrap {
   order: 2;
 }
+
+@media(max-width:767px){
+
+  .card_2_wrap .img_wrap {
+    min-height: 300px;
+    width: 100%;
+    padding: 0;
+    order: 1;
+    background-size: CONTAIN;
+}
+
+.card_2_wrap .col_right {
+    width: 100%;
+    padding-top: 0;
+    padding-bottom: 15%;
+}
+
+.card_2_wrap .card_wrap {
+    flex-wrap: wrap;
+}
+.card_2_wrap .card_wrap:nth-child(even) .col_right {
+  padding-left: 7%;
+}
+.card_2_wrap .row.card_2 h2 {
+  padding-left: 7%;
+  padding-right: 7%;
+}
+}

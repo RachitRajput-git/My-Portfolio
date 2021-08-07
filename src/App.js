@@ -30,7 +30,7 @@ function App() {
         <Header header={Details.header} />
 
         <Switch>
-          <Route exact path="/">
+          <Route exact path="/" >
             <Home Details={Details} />
           </Route>
           <Route exact path="/Home">
