@@ -1,0 +1,104 @@
+.footer_wrap .copyright_wrp {
+  text-align: center;
+}
+
+.footer_wrap .copyright_wrp p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  color: rgba(255, 255, 255, 0.5);
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: 16px;
+  /* background: #121212; */
+  /* padding: 8em 0; */
+  font-family: poppins, Arial, sans-serif;
+}
+
+.footer_wrap .f_text_wrap h3 {
+  font-weight: 700;
+  color: rgba(255, 255, 255, 0.9);
+  margin-bottom: 10px;
+  line-height: 1.5;
+  font-size: 2rem;
+}
+
+.footer_wrap .f_text_wrap {
+  text-align: center;
+  margin-bottom: 61px;
+}
+footer.footer_wrap.sectionBlock {
+  padding-top: 0;
+}
+
+.footer_wrap .f_text_wrap h5 {
+  font-size: 1.75rem;
+  line-height: 1.5;
+  color: #fff;
+  font-weight: 400;
+  margin-top: 0;
+}
+
+.footer_wrap .social_wrap {
+  margin-bottom: 48px;
+}
+
+.footer_wrap .social_wrap > ul {
+  padding-left: 0;
+  list-style: none;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  text-align: center !important;
+}
+
+.footer_wrap .social_wrap ul > li {
+  list-style: none;
+  margin: 0 10px 10px 0;
+  display: inline-block;
+}
+
+.footer_wrap .social_wrap ul > li > a {
+  height: 60px;
+  width: 60px;
+  display: block;
+  float: left;
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 50%;
+  position: relative;
+  color: rgba(255, 255, 255, 0.5);
+  -webkit-transition: 0.3s all ease;
+  -o-transition: 0.3s all ease;
+  transition: 0.3s all ease;
+}
+
+.footer_wrap .social_wrap ul > li > a > span {
+  position: absolute;
+  font-size: 26px;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  font-family: icomoon !important;
+  speak: none;
+  font-style: normal;
+  font-weight: 400;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.footer_wrap .social_wrap ul > li > a:hover {
+  color: #ffff;
+}
+
+@media(max-width:450px){
+  .footer_wrap .f_text_wrap h5 {
+    font-size: 1.20rem;
+}
+
+.footer_wrap .f_text_wrap h3 {
+    font-size: 1.7rem;
+}
+}

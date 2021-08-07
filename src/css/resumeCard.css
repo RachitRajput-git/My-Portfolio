@@ -1,0 +1,325 @@
+.resume-inner {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 40px;
+  padding-right: 40px;
+  background-color: #fff;
+  margin-right: 40px;
+  margin-left: 40px;
+  position: relative;
+}
+
+.resume-inner .r-top-header h1 {
+  margin: 0;
+  line-height: 1.2;
+  font-size: 50px;
+  font-family: "Poppins";
+  font-weight: 500;
+  letter-spacing: -2px;
+  color: #310489;
+  text-transform: uppercase;
+}
+
+.resume-inner .r-top-header h2 {
+  margin: 0;
+  line-height: 1.2;
+  text-transform: uppercase;
+  font-weight: 500;
+  letter-spacing: 0px;
+  color: #f4788e;
+}
+
+.r-top-header p {
+  margin: 0;
+  color: #000;
+  font-weight: 500;
+  line-height: 1.6;
+}
+
+.resume-inner span.email-info {
+  padding-left: 50px;
+}
+
+.r-main-wrap {
+  display: flex;
+  margin-top: 15px;
+}
+
+.main-content {
+  width: 60%;
+  float: left;
+  margin-right: 20px;
+}
+
+.aside-wrap {
+  width: 40%;
+  float: left;
+}
+
+.summary-item h1 {
+  padding: 0;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 1.2;
+  border-bottom: 2px solid #8080808c;
+}
+
+.summary-item p {
+  margin-top: 0;
+  line-height: 1.4;
+  font-size: 14px;
+  font-weight: 300;
+  color: #808080;
+}
+
+.expcard h1 {
+  padding: 0;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 1.5;
+  border-bottom: 2px solid #8080808c;
+  margin: 0;
+}
+
+.expcard {
+  margin-top: 30px;
+}
+
+h5.designation {
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+  color: #310489;
+  font-size: 20px;
+  line-height: 1;
+}
+
+.designation-wrap {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 5px;
+}
+
+.comapny-wrap {
+  justify-content: space-between;
+  display: flex;
+  align-items: center;
+}
+
+.comapny-wrap p.company-name {
+  display: inline-block;
+  margin: 0;
+  font-size: 16px;
+  margin-top: 5px;
+  color: #ff1c44;
+}
+
+span.period {
+  font-size: 12px;
+}
+
+span.period-to-from {
+  font-size: 12px;
+}
+
+span.company-location {
+  font-size: 12px;
+}
+
+.expcard-inner p {
+  line-height: 1.4;
+  font-size: 14px;
+  font-weight: 300;
+  color: #808080;
+}
+
+.expcard-inner ul {
+  margin-top: 0;
+  line-height: 1.4;
+  font-size: 14px;
+  font-weight: 300;
+  color: #808080;
+}
+
+.expcard-inner ul > li {
+  margin-bottom: 5px;
+}
+
+.expcard-inner {
+  margin-top: 10px;
+}
+
+.expcard-wrap:first-child {
+  margin-top: 0;
+}
+
+.expcard-wrap:not(:first-of-type) {
+  margin-top: 45px;
+  border-top: 1px solid #e4dfdf;
+}
+
+.expcard-wrap:not(:first-of-type) .expcard-inner {
+  margin-top: 10px;
+}
+.edu_main-wrap h1 {
+  padding: 0;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 1.5;
+  border-bottom: 2px solid #8080808c;
+  margin: 0;
+  margin-top: 40px;
+}
+
+.edu-left-col p {
+  margin: 0;
+}
+
+.edu-left-col h5 {
+  margin: 0;
+  font-size: 18px;
+  margin-top: 15px;
+  color: #000;
+  font-weight: 500;
+}
+
+.edu-inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.edu-right-col p {
+  margin: 0;
+}
+
+.edu-left-col {
+  width: 70%;
+}
+
+.edu-right-col {
+  padding-left: 15px;
+  border-left: 1px solid #808080;
+}
+
+.edu-left-col p {
+  margin: 0;
+  line-height: 1.2;
+  margin: 0;
+  font-size: 14px;
+  margin-top: -1px;
+  color: #310489;
+}
+
+.edu-right-col p {
+  text-align: center;
+  line-height: 1.2;
+  margin: 0;
+  font-size: 14px;
+  margin-top: 5px;
+  color: #000;
+}
+
+.edu-left-col p:last-of-type {
+  margin-bottom: 10px;
+}
+
+.edu-right-col p:last-of-type {
+  color: #310489;
+}
+
+.edu-inner:not(:last-of-type) {
+  border-bottom: 1px solid;
+}
+
+.tech_wrap h1 {
+    padding: 0;
+    font-weight: normal;
+    font-size: 25px;
+    margin-bottom: 5px;
+    line-height: 1.2;
+    border-bottom: 2px solid #8080808c;
+}
+
+.addInfo_wrap h1 {
+    padding: 0;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 1.2;
+    border-bottom: 2px solid #8080808c;
+    text-transform: unset;
+}
+
+.tect_inner h5 {
+    font-weight: 500;
+    display: inline-block;
+    margin: 0;
+    font-size: 16px;
+    margin-top: 5px;
+    color: #ff1c44;
+}
+
+.tect_inner p {
+    margin: 0;
+    line-height: 1.5;
+    margin: 0;
+    font-size: 14px;
+    margin-top: 0px;
+    color: #310489;
+}
+
+.tect_inner:not(:first-of-type) {
+    margin-top: 10px;
+}
+
+.addInfo_wrap {
+    margin-top: 40px;
+}
+
+.addInfo_inner ul li {
+    margin: 0;
+    line-height: 1.5;
+    margin: 0;
+    font-size: 14px;
+    margin-top: 0px;
+    color: #310489;
+}
+.resume_link {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    background-color: #0d051700;
+    transition: background-color 0.5s ease-in-out;
+}
+
+.resume_link:hover {
+    background-color: #0d05173b;
+}
+
+.resume_link:after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    top: 10px;
+    right: 5px;
+    position: absolute;
+    display: block;
+    left: 0;
+    text-align: center;
+    top: 0;
+    background-size: 95px;
+    background-image: url('../assets/images/download-icon.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.5s ease-in-out;
+}
+.resume_link:hover:after {
+    opacity: 1;
+    visibility: visible;
+}
