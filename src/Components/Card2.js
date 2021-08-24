@@ -1,7 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom/cjs/react-router-dom.min';
 import '../css/card_2.css'
-
 function Card2(props) {
     const { works } = props
     return (
@@ -20,7 +19,7 @@ function Card2(props) {
                                     <h2>{works[index].tag}</h2>
                                     <h4>{works[index].title}</h4>
                                     <p>{works[index].description}</p>
-                                    <p><Link to={{ pathname: works[index].link }}>wanna look...🧐🧐</Link></p>
+                                    <p><Link to={{ pathname: works[index].link }} target="_blank">wanna look...🧐🧐</Link></p>
                                 </div>
                             </div>
                         )

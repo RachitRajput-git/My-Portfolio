@@ -124,7 +124,7 @@ return (
     <div className="container">
         <div className="resume-inner">
  
-        <Link  class="resume_link" to={`://${resume.Resume_HardCopy}`} target="_blank" download></Link>
+        <Link  class="resume_link" to={{ pathname: resume.Resume_HardCopy }}  target="_blank" download></Link>
             <div className="r-top-header">
                 <h1>{resume.name}</h1>
                 <h2>{resume.designation}</h2>

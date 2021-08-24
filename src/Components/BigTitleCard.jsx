@@ -2,6 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom/cjs/react-router-dom.min";
 import '../css/bigTitleCard.css'
 
+
 function BigTitleCard(props) {
     const { title, about } = props;
     const socialLinks = about.socialLinks;
@@ -37,7 +38,7 @@ function BigTitleCard(props) {
                                 <Link to={{ pathname: `mailto:${about.contactInfo.email}` }} target="_blank">{about.contactInfo.email}</Link>
                             </p>
                             <p>Mobile :
-                                <Link to={{ pathname: `phone:${about.contactInfo.mobile}` }} target="_self" >
+                                <Link to={{ pathname: `phone:${about.contactInfo.mobile}` }} target="_blank" >
                                     {about.contactInfo.mobile}</Link>
                             </p>
                         </div>

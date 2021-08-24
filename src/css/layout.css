@@ -3,7 +3,7 @@
   src: url("../assets/fonts/icomoon.woff");
 }
 
-body:before {
+/* body:before {
   content: '';
   background-image: url('../assets/images/react.png');
   position: fixed;
@@ -16,7 +16,7 @@ body:before {
   opacity: 0.1;
   background-size: contain;
 
-}
+} */
 
 body::after {
   content: '';
@@ -26,7 +26,7 @@ body::after {
     background-size: cover;
     position: fixed;
     background-repeat: no-repeat;
-    opacity: .1;
+    opacity: .25;
     top: 0;
     background-position-x: center;
     z-index: -1;
@@ -64,6 +64,17 @@ body::after {
 .clearfix:after {
   clear: both;
 }
+
+.desc ul > li > a > span.linkedin {
+  font-family: fontawesome;
+}
+
+.desc ul > li > a > span.linkedin:before {content: '\f0e1';}
+
+.footer_wrap .social_wrap ul > li > a > span.linkedin:before {
+  content: '\f0e1';
+}
+
 /*========min-width:576px========= */
 @media (min-width: 576px) {
   .container {

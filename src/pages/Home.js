@@ -12,7 +12,7 @@ function Home(props) {
         <>
             <CustomSlider items={Details.SliderItems} />
             <BigTitleCard title="About" about={Details.About} />
-            <Services title="My services" services={Details.Services} />
+            <Services title="HERE ARE SOME OF MY EXPERTISE" services={Details.Services} />
             <Card2 works={Details.Works} />
         </>
     )

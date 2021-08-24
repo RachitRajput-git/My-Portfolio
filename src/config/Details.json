@@ -1,8 +1,8 @@
 {
   "header": {
     "logoText": "Rahul Lodhi",
-    "logoImage": "https://preview.colorlib.com/theme/beckham/images/person_1.jpg",
-    "menuSideImage": "https://preview.colorlib.com/theme/beckham/images/author-2.jpg",
+    "logoImage": "https://ulannewa.sirv.com/Porfolio/farzad-nazifi-p-xSl33Wxyc-unsplash.jpg",
+    "menuSideImage": "https://ulannewa.sirv.com/Porfolio/undraw_stand_out_1oag.png",
     "menuText": "Rahul Lodhi",
     "menuItems": [
       "Home",
@@ -39,9 +39,9 @@
     }
   ],
   "About": {
-    "image": "https://preview.colorlib.com/theme/beckham/images/author-1.jpg",
-    "heading": "Hi! I m Rahul Lodhi",
-    "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in.",
+    "image": "https://ulannewa.sirv.com/Porfolio/undraw_Coding_re_iv62.png",
+    "heading": "👋 Hi! I m Rahul Lodhi",
+    "description": "I am currently pursuing my degree in Bachelor of Technology in Information Technology from JP Institute of Engineering and Technology Rajpura, Meerut. I want to be a developer as I am interested in developing new things which excite me a lot.",
     "links": [],
     "contactInfo": {
       "homeAddress": "7/1 NandPuri Kanker khera Meerut Cantt, U.P(250001)",
@@ -51,58 +51,44 @@
     },
     "socialLinks": [
       {
-        "facebook": "https://www.facebook.com/"
+        "facebook": "https://www.facebook.com/profile.php?id=100014063418069"
       },
       {
-        "instagram": "#"
+        "instagram": "https://www.instagram.com/rahul12lodhi/"
       },
       {
         "github": "https://github.com/RachitRajput-git"
       },
       {
-        "twitter": "#"
+        "linkedin": "https://www.linkedin.com/in/rahul-lodhi-233a9621a/"
       }
     ]
   },
   "Services": {
     "first": [
       "UI/UX Design",
-      "Mobile App Design",
       "Responsive Design"
     ],
     "second": [
       "Product Strategy",
-      "Design Sprints",
       "UX Strategy"
     ],
     "third": [
       "HTML/CSS",
-      "Prototyping",
-      "User Testing"
+      "Backend Progamming",
+      "Git/APIs"
     ]
   },
   "Works": [
     {
-      "tag": "Web Design",
-      "title": "Even the all-powerful Pointing has no control",
-      "description": "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text.",
-      "link": "#",
-      "image": "https://preview.colorlib.com/theme/beckham/images/work-3.jpg"
-    },
-    {
-      "tag": "Web Design",
-      "title": "Even the all-powerful Pointing has no control",
-      "description": "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text.",
-      "link": "#",
-      "image": "https://preview.colorlib.com/theme/beckham/images/work-3.jpg"
-    },
-    {
-      "tag": "Web Design",
-      "title": "Even the all-powerful Pointing has no control",
-      "description": "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text.",
-      "link": "#",
-      "image": "https://preview.colorlib.com/theme/beckham/images/work-3.jpg"
+      "tag": "Web Designing & Development",
+      "title": "The Boski(with Team)",
+      "description": "Its a web app based on online booking system related to salons where client schedule  our appointments through online & gets desire services, This app mantainerd a proper records of staffs, appointments, staffs holidays and its provide a facility to choose our favourite staff.",
+      "link": "https://boski.app/",
+      "image": "https://ulannewa.sirv.com/Porfolio/Boskii.png"
     }
+    
+    
   ],
   "Footer": {
     "socialLinks": [
@@ -110,13 +96,13 @@
         "facebook": "https://www.facebook.com/"
       },
       {
-        "instagram": "#"
+        "instagram": "https://www.instagram.com/rahul12lodhi/"
       },
       {
         "github": "https://github.com/RachitRajput-git"
       },
       {
-        "twitter": "#"
+        "linkedin": "https://www.linkedin.com/in/rahul-lodhi-233a9621a/"
       }
     ],
     "email": "rahul.lodhi5003@gmail.com",
@@ -154,7 +140,7 @@
         "location": "New Delhi",
         "from": "15/12/2020",
         "to": "current",
-        "description": "As the first developer to integrate the team in this greenfield project, my goal is tocreate interfaces for our new product utilizing ReactJS + CSS usingREDUX/REDUX SAGA as our state management system . The main focus is to create reusable components that could be used in future projects by the team."
+        "description": "15th Dec 2020, I m join The Webplant pvt. Ltd. as role of web designer, Here I developed and migrate the variours website with the help of HTML, CSS , Javascipt, jqury. I m familiar how to  libaries and Apis. And Here I do lots of work on CRM named Hubspot."
       }
     ],
     "Education": [
@@ -208,6 +194,6 @@
       "Hindi",
       " Enlgish"
     ],
-    "Resume_HardCopy":"../../public/pdf/Resume.pdf"
+    "Resume_HardCopy":"https://drive.google.com/file/d/1MrZOMWs03NRETUqQa3LmSmdVaTI9jqkI/view?usp=sharing"
   }
 }
