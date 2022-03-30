@@ -2,7 +2,8 @@
 import "./App.css";
 import "../src/css/layout.css";
 import Header from "./Components/Header";
-import ProgressBar from "./Components/ProgressBar";
+import ProgressBar from "./Components/ProgressBar
+import XML from './sitemap.xml';
 import WOW from "wow.js";
 import {
   BrowserRouter as Router,
@@ -30,6 +31,7 @@ function App() {
         <Header header={Details.header} />
 
         <Switch>
+<Route component={XML} path={'/sitemap.xml'} />
           <Route exact path="/" >
             <Home Details={Details} />
           </Route>
