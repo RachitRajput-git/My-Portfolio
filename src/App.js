@@ -2,7 +2,7 @@
 import "./App.css";
 import "../src/css/layout.css";
 import Header from "./Components/Header";
-import ProgressBar from "./Components/ProgressBar
+import ProgressBar from "./Components/ProgressBar;
 import XML from './sitemap.xml';
 import WOW from "wow.js";
 import {
