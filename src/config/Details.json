@@ -19,29 +19,22 @@
     },
     {
       "Text_1": "I'm from Meerut,India",
-      "Text_2": "A Web Developer"
+      "Text_2": "A Front-End Web Developer"
     },
     {
-      "Text_1": "Hello! I'm",
-      "Text_2": "Rahul Lodhi"
-    },
-    {
-      "Text_1": "I'm from Meerut,India",
-      "Text_2": "A Web Designer"
-    },
-    {
-      "Text_1": "Hello! I'm",
-      "Text_2": "Rahul Lodhi"
+      "Text_1": "Technologies Which I'm use",
+      "Text_2": "HTML, CSS, Javascript, Jqury, ReactJs"
     },
     {
       "Text_1": "I'm from Meerut,India",
-      "Text_2": "A Web Designer"
-    }
+      "Text_2": "A Front-End Web Developer"
+    },
+    
   ],
   "About": {
     "image": "https://ulannewa.sirv.com/Porfolio/undraw_Coding_re_iv62.png",
     "heading": "👋 Hi! I m Rahul Lodhi",
-    "description": "I am currently pursuing my degree in Bachelor of Technology in Information Technology from JP Institute of Engineering and Technology Rajpura, Meerut. I want to be a developer as I am interested in developing new things which excite me a lot.",
+    "description": "Hey, I’ m Front-End web Developer based on Meerut (U.P), India approx 2 years’ experience with frontend web technologies likes Reactjs, Jquery, Javascript. And I’m want to become a Fullstack MERNWeb Developer.",
     "links": [],
     "contactInfo": {
       "homeAddress": "7/1 NandPuri Kanker khera Meerut Cantt, U.P(250001)",
@@ -57,7 +50,7 @@
         "instagram": "https://www.instagram.com/rahul12lodhi/"
       },
       {
-        "github": "https://github.com/RachitRajput-git"
+        "github": "https://github.com/RahulLodhi-Git"
       },
       {
         "linkedin": "https://www.linkedin.com/in/rahul-lodhi-233a9621a/"
@@ -99,7 +92,7 @@
         "instagram": "https://www.instagram.com/rahul12lodhi/"
       },
       {
-        "github": "https://github.com/RachitRajput-git"
+        "github": "https://github.com/RahulLodhi-Git"
       },
       {
         "linkedin": "https://www.linkedin.com/in/rahul-lodhi-233a9621a/"
@@ -110,13 +103,13 @@
   },
   "Resume": {
     "name": "Rahul Lodhi",
-    "designation": "Web Developer",
+    "designation": "A Front-End Web Developer",
     "phone_1": "9758635932",
     "phone_2": "7017795995",
     "email": "rahul.lodhi5003@gmail.com",
     "address": "Meerut Cantt, Uttar Pradesh, India(250001)",
-    "summary_1": "I have been working with web development since 1st Jan 2020 ,the period during which I have worked in differentenvironments, companies to start-ups. I am aself-motivatedand self-taught professional who likes to solve problems.",
-    "summary_2": "I merge a passion for usability and user experience with technical knowledge to create cool digital experiences. My repertoire includes programming languages and tools such as ReactJS, Firebase, MongoDB ,MySQL, Apache server configuration, SASS, Twitter Bootstrap, Ant Design, Material UI.",
+    "summary_1": "Hey, I’ m Front-End web Developer based on Meerut (U.P), India approx 2 years’ experience with frontend web technologies likes Reactjs, Jquery, Javascript. And I’m want to become a Fullstack MERNWeb Developer.",
+    "summary_2": " I have worked as a front End web developer for the approx. 2 years, So I have great understanding & ability how to translating design to Front-End-code and also determined the clients/developer requirements’",
     "experience": [
       {
         "company": "Socwise Technologies Pvt. Ltd.",
@@ -148,7 +141,7 @@
         "education": "B.TECH (Information Technology)",
         "address": "J.P INSTITUTE OF ENGINEERING OF TECHNOLOGY, MEERUT",
         "year": "2019",
-        "percentage": "65%"
+        "percentage": "66.6%"
       },
       {
         "education": "Secondary School",
@@ -194,6 +187,6 @@
       "Hindi",
       " Enlgish"
     ],
-    "Resume_HardCopy":"https://drive.google.com/file/d/1MrZOMWs03NRETUqQa3LmSmdVaTI9jqkI/view?usp=sharing"
+    "Resume_HardCopy":"https://drive.google.com/file/d/1I7QZsCWsxfwcvjc-A4qAtqZT7HaOzorA/view?usp=sharing"
   }
 }
