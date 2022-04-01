@@ -1,192 +1,192 @@
 {
-  "header": {
-    "logoText": "Rahul Lodhi",
-    "logoImage": "https://ulannewa.sirv.com/Porfolio/farzad-nazifi-p-xSl33Wxyc-unsplash.jpg",
-    "menuSideImage": "https://ulannewa.sirv.com/Porfolio/undraw_stand_out_1oag.png",
-    "menuText": "Rahul Lodhi",
-    "menuItems": [
-      "Home",
-      "Resume",
-      "Services",
-      "Portfolio",
-      "Blog"
-    ]
-  },
-  "SliderItems": [
-    {
-      "Text_1": "Hello! I'm",
-      "Text_2": "Rahul Lodhi"
-    },
-    {
-      "Text_1": "I'm from Meerut,India",
-      "Text_2": "A Front-End Web Developer"
-    },
-    {
-      "Text_1": "Technologies Which I'm use",
-      "Text_2": "HTML, CSS, Javascript, Jqury, ReactJs"
-    },
-    {
-      "Text_1": "I'm from Meerut,India",
-      "Text_2": "A Front-End Web Developer"
-    },
-    
-  ],
-  "About": {
-    "image": "https://ulannewa.sirv.com/Porfolio/undraw_Coding_re_iv62.png",
-    "heading": "👋 Hi! I m Rahul Lodhi",
-    "description": "Hey, I’ m Front-End web Developer based on Meerut (U.P), India approx 2 years’ experience with frontend web technologies likes Reactjs, Jquery, Javascript. And I’m want to become a Fullstack MERNWeb Developer.",
-    "links": [],
-    "contactInfo": {
-      "homeAddress": "7/1 NandPuri Kanker khera Meerut Cantt, U.P(250001)",
-      "alternateAddress": "7/1 NandPuri Kanker khera Meerut Cantt, U.P(250001)",
-      "email": "rahul.lodhi5003@gmail.com",
-      "mobile": "9758635932"
-    },
-    "socialLinks": [
-      {
-        "facebook": "https://www.facebook.com/profile.php?id=100014063418069"
-      },
-      {
-        "instagram": "https://www.instagram.com/rahul12lodhi/"
-      },
-      {
-        "github": "https://github.com/RahulLodhi-Git"
-      },
-      {
-        "linkedin": "https://www.linkedin.com/in/rahul-lodhi-233a9621a/"
-      }
-    ]
-  },
-  "Services": {
-    "first": [
-      "UI/UX Design",
-      "Responsive Design"
-    ],
-    "second": [
-      "Product Strategy",
-      "UX Strategy"
-    ],
-    "third": [
-      "HTML/CSS",
-      "Backend Progamming",
-      "Git/APIs"
-    ]
-  },
-  "Works": [
-    {
-      "tag": "Web Designing & Development",
-      "title": "The Boski(with Team)",
-      "description": "Its a web app based on online booking system related to salons where client schedule  our appointments through online & gets desire services, This app mantainerd a proper records of staffs, appointments, staffs holidays and its provide a facility to choose our favourite staff.",
-      "link": "https://boski.app/",
-      "image": "https://ulannewa.sirv.com/Porfolio/Boskii.png"
-    }
-    
-    
-  ],
-  "Footer": {
-    "socialLinks": [
-      {
-        "facebook": "https://www.facebook.com/"
-      },
-      {
-        "instagram": "https://www.instagram.com/rahul12lodhi/"
-      },
-      {
-        "github": "https://github.com/RahulLodhi-Git"
-      },
-      {
-        "linkedin": "https://www.linkedin.com/in/rahul-lodhi-233a9621a/"
-      }
-    ],
-    "email": "rahul.lodhi5003@gmail.com",
-    "copyright": "Copyright ©2021 All rights reserved | Made with 🥱😴 & ❤"
-  },
-  "Resume": {
-    "name": "Rahul Lodhi",
-    "designation": "A Front-End Web Developer",
-    "phone_1": "9758635932",
-    "phone_2": "7017795995",
-    "email": "rahul.lodhi5003@gmail.com",
-    "address": "Meerut Cantt, Uttar Pradesh, India(250001)",
-    "summary_1": "Hey, I’ m Front-End web Developer based on Meerut (U.P), India approx 2 years’ experience with frontend web technologies likes Reactjs, Jquery, Javascript. And I’m want to become a Fullstack MERNWeb Developer.",
-    "summary_2": " I have worked as a front End web developer for the approx. 2 years, So I have great understanding & ability how to translating design to Front-End-code and also determined the clients/developer requirements’",
-    "experience": [
-      {
-        "company": "Socwise Technologies Pvt. Ltd.",
-        "designation": "React Developer",
-        "period": "8 Months",
-        "location": "Meerut Cantt",
-        "from": "01/02/2020",
-        "to": "10/10/2020",
-        "description": "As the first developer to integrate the team in this greenfield project, my goal is tocreate interfaces for our new product utilizing ReactJS + CSS usingREDUX/REDUX SAGA as our state management system . The main focus is to create reusable components that could be used in future projects by the team.",
-        "workingAreas": [
-          "Use my extensive experience with front end development to define the structureand components for the project, making sure they are reusable.",
-          "Keep the code quality high reviewing code from other developers and suggestingimprovements.",
-          "Interact with the designer to suggest changes and to make sure the view he hasabout the design is translated into actual functionality.",
-          "I m writtern backend code also using nodejs and Firebase."
-        ]
-      },
-      {
-        "company": "The Webplant Pvt. Ltd.",
-        "designation": "Web Designer and Developer",
-        "Period": "Current",
-        "location": "New Delhi",
-        "from": "15/12/2020",
-        "to": "current",
-        "description": "15th Dec 2020, I m join The Webplant pvt. Ltd. as role of web designer, Here I developed and migrate the variours website with the help of HTML, CSS , Javascipt, jqury. I m familiar how to  libaries and Apis. And Here I do lots of work on CRM named Hubspot."
-      }
-    ],
-    "Education": [
-      {
-        "education": "B.TECH (Information Technology)",
-        "address": "J.P INSTITUTE OF ENGINEERING OF TECHNOLOGY, MEERUT",
-        "year": "2019",
-        "percentage": "66.6%"
-      },
-      {
-        "education": "Secondary School",
-        "address": "ASHOKA ACADEMY, MEERUT",
-        "year": "2014",
-        "percentage": "70%"
-      },
-      {
-        "education": "High School",
-        "address": "ASHOKA ACADEMY, MEERUT",
-        "year": "2012",
-        "percentage": "85%"
-      }
-    ],
-    "Technologies": {
-      "Front End": [
-        "HTML5",
-        "CSS3",
-        "Javascript",
-        "Jquery",
-        "Reactjs",
-        "BootStrap",
-        "MaterialUI "
-      ],
-      "Back End": [
-        "Firebase",
-        "Nodejs"
-      ],
-      "Tools": [
-        "VS code",
-        "Git",
-        "npm",
-        "yarn",
-        "APIs"
+    "header": {
+      "logoText": "Rahul Lodhi",
+      "logoImage": "https://ulannewa.sirv.com/Porfolio/farzad-nazifi-p-xSl33Wxyc-unsplash.jpg",
+      "menuSideImage": "https://ulannewa.sirv.com/Porfolio/undraw_stand_out_1oag.png",
+      "menuText": "Rahul Lodhi",
+      "menuItems": [
+        "Home",
+        "Resume",
+        "Services",
+        "Portfolio",
+        "Blog"
       ]
     },
-    "Passion": [
-      "Listing Music",
-      "Travelling",
-      "Learning new things"
+    "SliderItems": [
+      {
+        "Text_1": "Hello! I'm",
+        "Text_2": "Rahul Lodhi"
+      },
+      {
+        "Text_1": "I'm from Meerut,India",
+        "Text_2": "A Front-End Web Developer"
+      },
+      {
+        "Text_1": "Technologies Which I'm use",
+        "Text_2": "HTML, CSS, Javascript, Jqury, ReactJs"
+      },
+      {
+        "Text_1": "I'm from Meerut,India",
+        "Text_2": "A Front-End Web Developer"
+      }
+      
     ],
-    "Language": [
-      "Hindi",
-      " Enlgish"
+    "About": {
+      "image": "https://ulannewa.sirv.com/Porfolio/undraw_Coding_re_iv62.png",
+      "heading": "👋 Hi! I m Rahul Lodhi",
+      "description": "Hey, I’ m Front-End web Developer based on Meerut (U.P), India approx 2 years’ experience with frontend web technologies likes Reactjs, Jquery, Javascript. And I’m want to become a Fullstack MERNWeb Developer.",
+      "links": [],
+      "contactInfo": {
+        "homeAddress": "7/1 NandPuri Kanker khera Meerut Cantt, U.P(250001)",
+        "alternateAddress": "7/1 NandPuri Kanker khera Meerut Cantt, U.P(250001)",
+        "email": "rahul.lodhi5003@gmail.com",
+        "mobile": "9758635932"
+      },
+      "socialLinks": [
+        {
+          "facebook": "https://www.facebook.com/profile.php?id=100014063418069"
+        },
+        {
+          "instagram": "https://www.instagram.com/rahul12lodhi/"
+        },
+        {
+          "github": "https://github.com/RahulLodhi-Git"
+        },
+        {
+          "linkedin": "https://www.linkedin.com/in/rahul-lodhi-233a9621a/"
+        }
+      ]
+    },
+    "Services": {
+      "first": [
+        "UI/UX Design",
+        "Responsive Design"
+      ],
+      "second": [
+        "Product Strategy",
+        "UX Strategy"
+      ],
+      "third": [
+        "HTML/CSS",
+        "Backend Progamming",
+        "Git/APIs"
+      ]
+    },
+    "Works": [
+      {
+        "tag": "Web Designing & Development",
+        "title": "The Boski(with Team)",
+        "description": "Its a web app based on online booking system related to salons where client schedule  our appointments through online & gets desire services, This app mantainerd a proper records of staffs, appointments, staffs holidays and its provide a facility to choose our favourite staff.",
+        "link": "https://boski.app/",
+        "image": "https://ulannewa.sirv.com/Porfolio/Boskii.png"
+      }
+      
+      
     ],
-    "Resume_HardCopy":"https://drive.google.com/file/d/1I7QZsCWsxfwcvjc-A4qAtqZT7HaOzorA/view?usp=sharing"
+    "Footer": {
+      "socialLinks": [
+        {
+          "facebook": "https://www.facebook.com/"
+        },
+        {
+          "instagram": "https://www.instagram.com/rahul12lodhi/"
+        },
+        {
+          "github": "https://github.com/RahulLodhi-Git"
+        },
+        {
+          "linkedin": "https://www.linkedin.com/in/rahul-lodhi-233a9621a/"
+        }
+      ],
+      "email": "rahul.lodhi5003@gmail.com",
+      "copyright": "Copyright ©2021 All rights reserved | Made with 🥱😴 & ❤"
+    },
+    "Resume": {
+      "name": "Rahul Lodhi",
+      "designation": "A Front-End Web Developer",
+      "phone_1": "9758635932",
+      "phone_2": "7017795995",
+      "email": "rahul.lodhi5003@gmail.com",
+      "address": "Meerut Cantt, Uttar Pradesh, India(250001)",
+      "summary_1": "Hey, I’ m Front-End web Developer based on Meerut (U.P), India approx 2 years’ experience with frontend web technologies likes Reactjs, Jquery, Javascript. And I’m want to become a Fullstack MERNWeb Developer.",
+      "summary_2": " I have worked as a front End web developer for the approx. 2 years, So I have great understanding & ability how to translating design to Front-End-code and also determined the clients/developer requirements’",
+      "experience": [
+        {
+          "company": "Socwise Technologies Pvt. Ltd.",
+          "designation": "React Developer",
+          "period": "8 Months",
+          "location": "Meerut Cantt",
+          "from": "01/02/2020",
+          "to": "10/10/2020",
+          "description": "As the first developer to integrate the team in this greenfield project, my goal is tocreate interfaces for our new product utilizing ReactJS + CSS usingREDUX/REDUX SAGA as our state management system . The main focus is to create reusable components that could be used in future projects by the team.",
+          "workingAreas": [
+            "Use my extensive experience with front end development to define the structureand components for the project, making sure they are reusable.",
+            "Keep the code quality high reviewing code from other developers and suggestingimprovements.",
+            "Interact with the designer to suggest changes and to make sure the view he hasabout the design is translated into actual functionality.",
+            "I m writtern backend code also using nodejs and Firebase."
+          ]
+        },
+        {
+          "company": "The Webplant Pvt. Ltd.",
+          "designation": "Web Designer and Developer",
+          "Period": "Current",
+          "location": "New Delhi",
+          "from": "15/12/2020",
+          "to": "current",
+          "description": "15th Dec 2020, I m join The Webplant pvt. Ltd. as role of web designer, Here I developed and migrate the variours website with the help of HTML, CSS , Javascipt, jqury. I m familiar how to  libaries and Apis. And Here I do lots of work on CRM named Hubspot."
+        }
+      ],
+      "Education": [
+        {
+          "education": "B.TECH (Information Technology)",
+          "address": "J.P INSTITUTE OF ENGINEERING OF TECHNOLOGY, MEERUT",
+          "year": "2019",
+          "percentage": "66.6%"
+        },
+        {
+          "education": "Secondary School",
+          "address": "ASHOKA ACADEMY, MEERUT",
+          "year": "2014",
+          "percentage": "70%"
+        },
+        {
+          "education": "High School",
+          "address": "ASHOKA ACADEMY, MEERUT",
+          "year": "2012",
+          "percentage": "85%"
+        }
+      ],
+      "Technologies": {
+        "Front End": [
+          "HTML5",
+          "CSS3",
+          "Javascript",
+          "Jquery",
+          "Reactjs",
+          "BootStrap",
+          "MaterialUI "
+        ],
+        "Back End": [
+          "Firebase",
+          "Nodejs"
+        ],
+        "Tools": [
+          "VS code",
+          "Git",
+          "npm",
+          "yarn",
+          "APIs"
+        ]
+      },
+      "Passion": [
+        "Listing Music",
+        "Travelling",
+        "Learning new things"
+      ],
+      "Language": [
+        "Hindi",
+        " Enlgish"
+      ],
+      "Resume_HardCopy":"https://drive.google.com/file/d/1I7QZsCWsxfwcvjc-A4qAtqZT7HaOzorA/view?usp=sharing"
+    }
   }
-}
